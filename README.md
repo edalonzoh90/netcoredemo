@@ -1,0 +1,2 @@
+# netcoredemo
+Demo NetCore
