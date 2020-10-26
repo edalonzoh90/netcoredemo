@@ -1,4 +1,0 @@
-C:\Users\edalonzoh\Source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
-C:\Users\edalonzoh\Source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
-C:\Users\edalonzoh\Source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
-C:\Users\edalonzoh\Source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
