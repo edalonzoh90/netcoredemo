@@ -1,0 +1,8 @@
+OdeToFood3/bin
+OdeToFood3/obj
+OdeToFood.Data/bin
+OdeToFood.Data/obj
+OdeToFood.Core/bin
+OdeToFood.Core/obj
+*.user
+.vs/.*
